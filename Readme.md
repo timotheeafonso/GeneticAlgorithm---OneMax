@@ -9,3 +9,6 @@ Algorithmes génétiques appliqué au problème du One-Max  implémentés en Pyt
 - oneMaxUCB.py : algorithme génétique steady state avec UCB pour la sélection des opérateurs de mutation 
 - oneMaxMasqueAdaptative.py et leadingOnesAdaptative.py : algorithme génétique steady state avec roulette adaptative pour la sélection des opérateurs de mutation pour les problème du one-max avec masque sur la fonction d'évaluation et leading ones
 - UCB_vs_Adaptative.py et Adaptative_vs_NonAdaptative.py : comparaison de la roulette adaptative avec l'UCB et d'autre algorithme génétique non adaptatif.
+
+
+Les resulats et les détails du projet sont présent dans le fichier "rapport-timothee-afonso.pdf"
